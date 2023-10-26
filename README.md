@@ -1,10 +1,6 @@
 # Clínica
 
-Bem-vindo, este projeto simula a criação de um sistema de gerenciamento para uma clínica médica fictícia.
-
-## Sobre o Projeto
-
-Este projeto foi desenvolvido como parte de uma atividade acadêmica.
+Este projeto simula a criação de um sistema de gerenciamento para uma clínica médica fictícia.
 
 ## Estrutura do Projeto
 
